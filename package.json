@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "moment": "^2.24.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0",
-    "reaviz": "^2.3.0",
+    "reaviz": "^13.1.10",
     "styled-components": "^4.2.1"
   },
   "scripts": {
